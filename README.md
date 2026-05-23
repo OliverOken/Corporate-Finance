@@ -1,3 +1,4 @@
 # Corporate-Finance
 Vemba 33 Finance 
-My Bio
+
+Duy Nguyen is an administrative professional in the Trust Real Estate Department at Bank of Hawaii in Honolulu, supporting a portfolio of roughly 300 trust-held properties. He manages high-volume payables and rent/tax cycles, prepares sale documents and delinquency reports, coordinates due diligence with vendors for regulatory compliance, tracks inspections and insurance, partners with appraisers on market value updates, and assists with quarterly FFIEC reporting. Duy previously supported brokerage and development teams at Puerto Rico Sotheby’s International Realty and American Dream Home Group, and held a Hawaii real estate salesperson license (inactive), with additional experience at ONE Realty and Fathom Realty. He is tech-savvy across Microsoft 365, MLS, Yardi, AddVantage, and FIS, and is fluent in English and Vietnamese. Duy began his career in patient-facing healthcare as an optometrist assistant. He holds a B.S. in Biochemistry from the University of Washington and is recognized for organization, analytical problem-solving, reliability, and effective cross-cultural communication.
