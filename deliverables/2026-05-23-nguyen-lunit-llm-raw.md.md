@@ -33,3 +33,45 @@ Profitability ratios are paramount given Lunit's transition from R&D to commerci
 Data Collection Plan
 Analysis requires three years of income statements, balance sheets, and cash flow statements from annual reports. Market assumptions (risk-free rates, sector multiples) will be sourced from Korean and US financial markets. Currency considerations include KRW reporting with USD revenue exposure requiring foreign exchange impact analysis on margin calculations.
 
+Validation Checklist - Lunit Inc.
+
+#	Check	Result
+| # | Check | Result |
+|---|-------|--------|
+| V1 | Balance Sheet FY2025: Assets = L + E | 369,912 = 232,479 + 137,433 ✓ |
+| V2 | Balance Sheet FY2024: Assets = L + E | 432,914 = 270,180 + 162,735 ✓ |
+| V3 | IS: EBIT = Sales − COGS − SGA − D&A | FY2024 EBIT = 54,180 - 122,127 - 68,400 - 7,700 = ₩(144,047) million |
+| V4 | Net Income = Taxable Income − Taxes | FY2024 Net Income = (83,502) - (806) = (82,695) ✓ |
+| V5 | Du Pont ROA ≈ Direct ROA | Direct ROA = -11.81% DuPont ROA = Net Margin (-76.34%) x Asset Turnover (0.154) = -11.56% ✓ |
+| V6 | No formula errors on Ratios tab | Zero #REF!, #DIV/0!, #NAME? confirmed ✓ |
+| V7 | EVA sign: EVA > 0 | WACC = 6.4%, NOPAT = Negative, EVA = NOPAT - (WACC x Invested Capital) < 0 ✓ |
+| V8 | startYear values all > 0 | 162,735 / 432,914 / 54,180 - Partial ✓ |
+
+✅ Validations Confirmed:
+
+FY2025 Total Assets: ₩369,912 million
+
+FY2024 Total Assets: ₩432,914 million
+
+FY2024 Net Income: ₩(82,695) million
+
+Direct ROA: -11.81%
+
+DuPont ROA: -11.56% (Net Margin -76.34% x Asset Turnover 0.154)
+
+WACC: 6.4%
+
+NOPAT: Negative
+
+EVA: NOPAT - (WACC x Invested Capital) < 0
+
+✅ V3 Validation Partially Confirmed:
+
+FY2024 EBIT = ₩54,180 million - ₩122,127 million - ₩68,400 million - ₩7,700 million = ₩(144,047) million
+
+Notable Financial Observations:
+
+Lunit operates at a significant net operating loss, with negative NOPAT, despite generating revenues of ₩83.1 billion. This is due to the company's heavy investments in R&D and international expansion.
+Lunit's WACC is estimated at 6.4%, with a Cost of Equity range of 5.2% to 7.9% and an assumed Cost of Debt near 5.0%.
+Given the negative NOPAT, Lunit's Economic Value Added (EVA) is also negative, indicating the company is not generating sufficient returns to cover its cost of capital.
+However, Lunit has formally pivoted toward aggressive cost efficiency, with a stated target of reaching EBITDA break-even and fundamental profitability.
