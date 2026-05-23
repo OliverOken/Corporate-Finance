@@ -1,12 +1,13 @@
-Company Selection Memo: Lunit Inc.
+---
+title: "Company Selection Memo: Lunit Inc."
+date: 2026-05-23
+author: Duy Nguyen
+type: decision-memo
+stage: 2
+company: Lunit Inc.
+ticker: 328130.KS
+---
 
-TO: Managing Director
-
-FROM: Duy Nguyen
-
-DATE: May 23, 2026
-
-RE: Stage 2 Company Selection — Lunit Inc.
 
 Company Overview
 Lunit Inc. (328130.KS, KOSDAQ) is a South Korean medical AI company specializing in diagnostic imaging solutions. The company develops AI-powered software for chest X-ray analysis, mammography screening, and digital pathology, with FDA-cleared products deployed across healthcare systems globally. Trading at approximately KRW 1.2 trillion market capitalization, Lunit reports in Korean Won under K-IFRS standards with a December 31 fiscal year end.
